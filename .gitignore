@@ -1,0 +1,7 @@
+praw.ini
+algo.code-workspace
+*cache*
+.env
+.vscode
+.venv
+.vim
